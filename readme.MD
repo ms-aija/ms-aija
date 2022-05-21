@@ -48,5 +48,5 @@ I am Aija Avota, a full stack developer with a strong leaning towards the fronte
 [![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ms-aija&langs_count=7&theme=tokyonight)]()
 
 ## Links
-[![Linkedin]<img src="https://img.shields.io/badge/linkedin-0B65C2?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/aija-avota/)
+[<img src="https://img.shields.io/badge/linkedin-0B65C2?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/aija-avota/)
 
