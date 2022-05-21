@@ -3,11 +3,11 @@
 ## About me
 I am Aija Avota, a full stack developer with a strong leaning towards the frontend. I love to develop web apps from scratch 🏗 as much as I love helping others become the best versions of themselves 🤍 be it professionally or personally.
 
-🎓 I am a recent graduate of the Codeworks coding bootcamp - one of my favorite career decisions I have ever made.
+🎓 I am a recent graduate of the Codeworks coding bootcamp - one of my favorite career decisions ever.
 
-🐣 I am currently working on getting MeetMeHalfWay ready for deployment and working on a variety of projects and tutorials to amp up my skills.
+🐣 I am currently working on getting MeetMeHalfWay ready for deployment and on a variety of projects and tutorials to amp up my skills.
 
-🫀 When I am not coding, you'll most likely find me out on adventures in the nature ⛰🚴🏼‍♀️ or reading a book 📚... join me on [goodreads](https://www.goodreads.com/review/list/26981683-aija-avota?ref=nav_mybooks&shelf=read) - the second best social network after github 😜
+🫀 When I am not coding, you'll most likely find me out on adventures in nature ⛰🚴🏼‍♀️ or reading a book 📚... join me on [goodreads](https://www.goodreads.com/review/list/26981683-aija-avota?ref=nav_mybooks&shelf=read) - the second best social network after github 😉
 
 ## Skills
 ### Languages
