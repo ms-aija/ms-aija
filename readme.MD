@@ -44,8 +44,8 @@ I am Aija Avota, a full stack developer with a strong leaning towards the fronte
 </p>
 
 ## Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ms-aija&count_private=true&theme=tokyonight&showicons=true&line_height=33)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ms-aija&langs_count=7&theme=tokyonight)]()
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ms-aija&count_private=true&theme=tokyonight&showicons=true&line_height=33)]()
+[![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ms-aija&langs_count=7&theme=tokyonight)]()
 
 ## Links
 
