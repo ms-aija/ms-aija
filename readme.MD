@@ -1,7 +1,7 @@
 # Hi there 🙌🏼
 
 ## About me
-I am Aija Avota, a full stack developer with a strong leaning towards the frontend. I love to develop web apps from scratch 🏗 as much as I love helping others become the best versions of themselves 🤍 be it professionally or personally.
+I am Aija Avota, a full stack developer with emphasis on frontend. I love to develop web apps from scratch 🏗 as much as I love helping others become the best versions of themselves 🤍 be it professionally or personally.
 
 🎓 I am a recent graduate of the Codeworks coding bootcamp - one of my favorite career decisions ever.
 
