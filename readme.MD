@@ -1,7 +1,6 @@
 # Hi there 🙌🏼
 
-## About me
-I am Aija Avota, a full stack developer with emphasis on frontend. I love to develop web apps from scratch 🏗 as much as I love helping others become the best versions of themselves 🤍 be it professionally or personally.
+I am a full stack developer with emphasis on frontend. I love to develop web apps from scratch 🏗 as much as I love helping others become the best versions of themselves 🤍 be it professionally or personally.
 
 🎓 I am a recent graduate of the Codeworks coding bootcamp - one of my favorite career decisions ever.
 
@@ -9,7 +8,7 @@ I am Aija Avota, a full stack developer with emphasis on frontend. I love to dev
 
 🫀 When I am not coding, you'll most likely find me out on adventures in nature ⛰🚴🏼‍♀️ or reading a book 📚... join me on [goodreads](https://www.goodreads.com/review/list/26981683-aija-avota?ref=nav_mybooks&shelf=read) - the second best social network after github 😉
 
-## Skills
+
 ### Languages
 <p align-"left">
 <img src="https://img.shields.io/badge/javascript-ffeb3b?style=for-the-badge&logo=javascript&logoColor=black">
@@ -43,10 +42,10 @@ I am Aija Avota, a full stack developer with emphasis on frontend. I love to dev
 <img src="https://img.shields.io/badge/postman-f76936?style=for-the-badge&logo=postman&logoColor=white">
 </p>
 
-## Stats
+### Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ms-aija&count_private=true&theme=tokyonight&showicons=true&line_height=33)]()
 [![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ms-aija&langs_count=7&theme=tokyonight)]()
 
-## Links
+### Links
 [<img src="https://img.shields.io/badge/linkedin-0B65C2?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/aija-avota/)
 
