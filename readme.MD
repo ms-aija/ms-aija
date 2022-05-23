@@ -2,7 +2,7 @@
 
 I am a full stack developer with emphasis on frontend. I love to develop web apps from scratch 🏗 as much as I love helping others become the best versions of themselves 🤍 be it professionally or personally.
 
-🎓 I am a recent graduate of the Codeworks coding bootcamp - one of my favorite career decisions ever.
+🎓 I am a proud graduate of the Codeworks coding bootcamp - one of the most intensive coding experiences and among my favorite career decisions ever.
 
 🐣 I am currently working on getting [MeetMeHalfWay](https://github.com/ms-aija/MeetMeHalfWay) ready for deployment and on a variety of projects and tutorials to amp up my skills.
 
