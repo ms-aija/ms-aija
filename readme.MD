@@ -4,7 +4,7 @@ I am a full stack developer with emphasis on frontend. I love to develop web app
 
 🎓 I am a proud graduate of the Codeworks coding bootcamp - one of the most intensive coding experiences and among my favorite career decisions ever.
 
-🐣 I am currently working on getting [MeetMeHalfWay](https://github.com/ms-aija/MeetMeHalfWay) ready for deployment and on a variety of projects and tutorials to amp up my skills.
+🐣 I am currently working on getting [MeetMeHalfWay](https://github.com/ms-aija/MeetMeHalfWay) ready for deployment.
 
 🫀 When I am not coding, you'll most likely find me out on adventures in nature ⛰🚴🏼‍♀️ or reading a book 📚... join me on [goodreads](https://www.goodreads.com/review/list/26981683-aija-avota?ref=nav_mybooks&shelf=read) - the second best social network after github 😉
 
