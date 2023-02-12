@@ -43,9 +43,5 @@ I am a full stack developer with emphasis on frontend. I love to develop web app
 </p>
 
 ### Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ms-aija&count_private=true&theme=tokyonight&showicons=true&line_height=33)]()
 [![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ms-aija&langs_count=7&theme=tokyonight)]()
-
-### Links
-[<img src="https://img.shields.io/badge/linkedin-0B65C2?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/aija-avota/)
 
