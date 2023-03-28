@@ -1,6 +1,6 @@
 # Hi there 🙌🏼
 
-I am a full stack developer with emphasis on frontend. I love to develop web apps from scratch 🏗 as much as I love helping others become the best versions of themselves 🤍 be it professionally or personally.
+I am a full stack developer and love to develop web apps 🏗 as much as I love helping others become the best versions of themselves 🤍 be it professionally or personally.
 
 🎓 I am a proud graduate of the Codeworks coding bootcamp - one of the most intensive coding experiences and among my favorite career decisions ever.
 
