@@ -6,7 +6,7 @@ I am a full stack developer and love to develop web apps 🏗 as much as I love 
 
 🐣 I am currently working on getting [MeetMeHalfWay](https://github.com/ms-aija/MeetMeHalfWay) ready for deployment.
 
-🫀 When I am not coding, you'll most likely find me out on adventures in nature ⛰🚴🏼‍♀️ or reading a book 📚... join me on [goodreads](https://www.goodreads.com/review/list/26981683-aija-avota?ref=nav_mybooks&shelf=read) - the second best social network after github 😉
+🫀 When I am not coding, you'll most likely find me out on adventures in the nature ⛰🚴🏼‍♀️ or reading a book 📚... join me on [goodreads](https://www.goodreads.com/review/list/26981683-aija-avota?ref=nav_mybooks&shelf=read) - the second best social network after github 😉
 
 
 ### Languages
