@@ -2,9 +2,9 @@
 
 I am a full stack developer and love to develop web apps 🏗 as much as I love helping others become the best versions of themselves 🤍 be it professionally or personally.
 
-🎓 I am a proud graduate of the Codeworks coding bootcamp - one of the most intensive coding experiences and among my favorite career decisions ever.
+🎓 I am a proud graduate of the Codeworks coding bootcamp - one of the most immersive coding experiences and among my favorite career decisions ever.
 
-🐣 I am currently focusing on my job and my current go to side project is getting [MeetMeHalfWay](https://github.com/ms-aija/MeetMeHalfWay) ready for deployment.
+👩🏽‍💻 I am currently focusing on everything cybersecurity in the open source SW supply chain with Cyberfame.
 
 🫀 When I am not coding, you'll most likely find me out on adventures in the nature ⛰🚴🏼‍♀️ or reading a book 📚... join me on [goodreads](https://www.goodreads.com/review/list/26981683-aija-avota?ref=nav_mybooks&shelf=read) - the second best social network after github 😉
 
